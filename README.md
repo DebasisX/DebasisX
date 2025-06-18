@@ -6,6 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debasis-sikdar-4a197b25a/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/DebasisX)  
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/IncinerateX)
+📄 [View My Resume](https://drive.google.com/file/d/1ebyWZJIxe73yxoWQC_GZnIvDTo1wp5XT/view)
 
 ---
 
@@ -102,8 +103,7 @@ _Aug 2022 – Jul 2026 | CGPA: 8.12_
 ---
 
 ## 📊 GitHub Stats
-
-![DebasisX's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DebasisX&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DebasisX&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DebasisX&layout=compact&theme=tokyonight)
 ![DebasisX's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DebasisX&theme=tokyonight)
 
