@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 I am a passionate AI/ML Software Engineer with expertise in system design, backend development, and machine learning. I specialize in building intelligent, scalable, and production-ready solutions with a focus on clean architecture and high-performance systems.
-To learn more: 📄 [View My Resume](https://drive.google.com/file/d/1ebyWZJIxe73yxoWQC_GZnIvDTo1wp5XT/view)
+To learn more: 📄 [View My Resume](https://drive.google.com/file/d/1g0TZ-5viXrn9n24n5mtGdFjv-QItoFxA/view?usp=drivesdk)
 
 ---
 
