@@ -102,34 +102,6 @@ _Aug 2022 – Jul 2026 | CGPA: 8.12_
 
 ---
 
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=DebasisX&show_icons=true&theme=tokyonight" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebasisX&layout=compact&theme=tokyonight" />
-</p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DebasisX&theme=tokyonight" />
-</p>
-
----
-
-## ✨ Extras
-
-### Visitor Counter  
-![Visitor Count](https://profile-counter.glitch.me/DebasisX/count.svg)
-
-### GitHub Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=DebasisX&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
-### GitHub Activity Graph
-
-[![DebasisX's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DebasisX&bg_color=0d1117&color=61dafb&line=5dadec&point=ffffff&area=true&hide_border=true)](https://github.com/DebasisX)
-
----
-
 ## 📫 Let's Connect!
 Feel free to reach out for collaboration, projects, or just a tech chat!  
 📧 debasis.sikder123@gmail.com
